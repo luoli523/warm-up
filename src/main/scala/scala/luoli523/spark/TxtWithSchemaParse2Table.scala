@@ -1,4 +1,4 @@
-package com.luoli523.spark
+package scala.luoli523.spark
 
 import org.apache.spark.sql.{Row, SparkSession}
 import org.apache.spark.sql.types._

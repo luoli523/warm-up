@@ -1,4 +1,4 @@
-package com.luoli523.streaming
+package scala.luoli523.streaming
 
 import org.apache.spark._
 import org.apache.spark.streaming._

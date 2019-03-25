@@ -1,4 +1,4 @@
-package com.luoli523.scala
+package scala.luoli523.scala
 
 object DAY extends Enumeration {
   type DAY = Value
